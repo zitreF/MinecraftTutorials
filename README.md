@@ -2,4 +2,4 @@
 - Minecraft server tutorials pack for you! 👀
 
 # Tutorials
-- TODO HERE
+- [Minecraft Java Tutorial](https://github.com/vLuckyyy/MinecraftTutorials/blob/main/minecraft-java.md)
